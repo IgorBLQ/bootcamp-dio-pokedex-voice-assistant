@@ -7,6 +7,7 @@ Identificado e apresentando a pronúncia (em inglês) correta de Pokémons atrav
 ## 🔗 Link de Acesso ao Projeto
 > **[Clique aqui para acessar no Google Colab](https://colab.research.google.com/drive/1REnB7EWhiwSTF-rdsZeFvv5o6O1WVV6g?usp=sharing)**
 
+### Adicione pokemon_normalizado.txt ao Colab
 ---
 
 ## ⚖ Arquitetura do Sistema
